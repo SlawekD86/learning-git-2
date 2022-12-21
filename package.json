@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/SlawekD86/learning-git-2#readme",
   "devDependencies": {
-    "browser-sync": "^2.27.10",
+    "browser-sync": "^2.11.2",
     "html-validate": "^7.10.0"
   }
 }
